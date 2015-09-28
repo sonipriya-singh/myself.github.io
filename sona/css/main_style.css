@@ -1,0 +1,38 @@
+/**************************************************************************
+****************************AJAY SINGH CHHONKER****************************
+**************************************************************************/
+html {
+	height: 100%;
+}
+body {
+	background:#111111;
+	/*background-size:100% 100%;*/
+	font-family: 'Open Sans', sans-serif;	
+}
+div {
+border:1px solid white;
+}
+
+.sonu {
+border:2px solid black;
+	background:#000;
+	width:100%;
+	height:100%;
+	position:fixed;
+	float:left;
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	text-align:center;
+	font-size:80px;
+	line-height:200px;
+	-webkit-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;
+}
+.sonu p:hover {
+	/*box-shadow:0px 0px 5px 2px white;*/
+	color:#D00;
+}
+.sonu  p{
+	color:white;
+}
